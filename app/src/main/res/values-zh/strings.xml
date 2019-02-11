@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPA Calculator</string>
+    <string name="action_settings"></string>
+    <string name="nameLabel"></string>
+    <string name="Version"></string>
+    <string name="calcButtonLabel"></string>
+    <string name="gpaLabel"></string>
+    <string name="class1_title"></string>
+    <string name="class2_title"></string>
+    <string name="class3_title"></string>
+    <string name="class4_title"></string>
+    <string-array name="gradeArray">
+        <item>A+</item>
+        <item>A</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>B-</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>C-</item>
+        <item>D+</item>
+        <item>D</item>
+        <item>D-</item>
+        <item>F</item>
+    </string-array>
+</resources>

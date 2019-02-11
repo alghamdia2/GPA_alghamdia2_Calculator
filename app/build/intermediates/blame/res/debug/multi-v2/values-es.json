@@ -1,0 +1,42 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\d7om0\\AndroidStudioProjects\\GPA_alghamdia2_Calculator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es\\values-es.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\d7om0\\AndroidStudioProjects\\GPA_alghamdia2_Calculator\\app\\src\\main\\res\\values-es\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,7,4",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,4,4",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,304,159",
+                        "endColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,37,38",
+                        "endOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,337,193"
+                    },
+                    "to": {
+                        "startLines": "2,17,18,19,20,21,22,23,24,25,26",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,419,468,520,572,629,679,729,779,829,859",
+                        "endLines": "16,17,18,19,20,21,22,23,24,25,26",
+                        "endColumns": "19,48,51,51,56,49,49,49,49,29,30",
+                        "endOffsets": "414,463,515,567,624,674,724,774,824,854,885"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\d7om0\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\7443349e255691d96d74bee00de04dd5\\res\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "27",
+                        "startColumns": "4",
+                        "startOffsets": "890",
+                        "endColumns": "100",
+                        "endOffsets": "986"
+                    }
+                }
+            ]
+        }
+    ]
+}

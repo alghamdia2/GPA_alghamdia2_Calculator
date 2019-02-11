@@ -1,0 +1,4 @@
+#Sun Feb 10 05:47:31 EST 2019
+base.0=C\:\\Users\\d7om0\\AndroidStudioProjects\\GPA_alghamdia2_Calculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
